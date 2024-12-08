@@ -1,0 +1,17 @@
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.csproj.AssemblyReference.cache
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.AddStudentForm.resources
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.AddTeachersForm.resources
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.DashboardForm.resources
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.frm_splash.resources
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.LoginForm.resources
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.MainForm.resources
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.Properties.Resources.resources
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.csproj.GenerateResource.cache
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.csproj.CoreCompileInputs.cache
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\bin\Debug\QuanLyTruongHoc.mdf
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\bin\Debug\QuanLyTruongHoc_log.ldf
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\bin\Debug\QuanLyTruongHoc.exe.config
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\bin\Debug\QuanLyTruongHoc.exe
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\bin\Debug\QuanLyTruongHoc.pdb
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.exe
+D:\ConsoleApp\QuanLyTruongHoc\QuanLyTruongHoc\obj\Debug\QuanLyTruongHoc.pdb
